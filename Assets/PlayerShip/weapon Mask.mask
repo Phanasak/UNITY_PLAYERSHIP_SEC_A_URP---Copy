@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: weapon Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/body
+    m_Weight: 0
+  - m_Path: Armature/body/backBooster
+    m_Weight: 0
+  - m_Path: Armature/body/backBooster/backBooster_end
+    m_Weight: 0
+  - m_Path: Armature/body/frontGun_base
+    m_Weight: 1
+  - m_Path: Armature/body/frontGun_base/frontGun_muzzle
+    m_Weight: 1
+  - m_Path: Armature/body/frontGun_base/frontGun_muzzle/frontGun_muzzle_end
+    m_Weight: 0
+  - m_Path: Armature/body/L_sideGun_base
+    m_Weight: 1
+  - m_Path: Armature/body/L_sideGun_base/L_sideGun_base.001
+    m_Weight: 1
+  - m_Path: Armature/body/L_sideGun_base/L_sideGun_base.001/L_sideGun_base.001_end
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing/L_beamGun_base
+    m_Weight: 1
+  - m_Path: Armature/body/L_wing/L_beamGun_base/L_beamGun_muzzle
+    m_Weight: 1
+  - m_Path: Armature/body/L_wing/L_beamGun_base/L_beamGun_muzzle/L_beamGun_muzzle_end
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing/L_beamGun_base/L_beamGun_prop
+    m_Weight: 1
+  - m_Path: Armature/body/L_wing/L_beamGun_base/L_beamGun_prop/L_beamGun_prop_end
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing/L_booster
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing/L_booster/L_backBooster
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing/L_booster/L_backBooster/L_backBooster_end
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing/L_booster/L_guard
+    m_Weight: 0
+  - m_Path: Armature/body/L_wing/L_booster/L_guard/L_guard_end
+    m_Weight: 0
+  - m_Path: Armature/body/R_sideGun_base
+    m_Weight: 1
+  - m_Path: Armature/body/R_sideGun_base/R_sideGun_base.001
+    m_Weight: 1
+  - m_Path: Armature/body/R_sideGun_base/R_sideGun_base.001/R_sideGun_base.001_end
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing/R_beamGun_base
+    m_Weight: 1
+  - m_Path: Armature/body/R_wing/R_beamGun_base/R_beamGun_muzzle
+    m_Weight: 1
+  - m_Path: Armature/body/R_wing/R_beamGun_base/R_beamGun_muzzle/R_beamGun_muzzle_end
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing/R_beamGun_base/R_beamGun_prop
+    m_Weight: 1
+  - m_Path: Armature/body/R_wing/R_beamGun_base/R_beamGun_prop/R_beamGun_prop_end
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing/R_booster
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing/R_booster/R_backBooster
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing/R_booster/R_backBooster/R_backBooster_end
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing/R_booster/R_guard
+    m_Weight: 0
+  - m_Path: Armature/body/R_wing/R_booster/R_guard/R_guard_end
+    m_Weight: 0
+  - m_Path: body
+    m_Weight: 0
